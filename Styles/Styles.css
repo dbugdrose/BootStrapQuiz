@@ -47,3 +47,8 @@
         border-bottom-right-radius: 5px;
     border-top-right-radius: 5px;
 }
+.dogrow {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
